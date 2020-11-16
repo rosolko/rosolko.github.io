@@ -24,7 +24,7 @@ linkedin_username: rosolko
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Alex and I'm a senior backend developer.
-  As well as developing I also have experience in test automation of api, web and monile applications.
+  As well as developing I also have experience in test automation of api, web and mobile applications.
   I have worked at two companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Node.JS</mark> and <mark>Java</mark>.
