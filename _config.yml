@@ -29,6 +29,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Node.JS</mark> and <mark>Java</mark>.
 
+  <a href="assets/cv.pdf" download>Download this CV as PDF</a>
+
 # Projects Section
 # projects_title: Projects
 
