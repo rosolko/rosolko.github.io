@@ -1,9 +1,74 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: tispr
+  link: tispr.com
+  job_title: Senior Backend Developer
+  dates: September 2018 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Participating in backend development. Using NodeJS and loopback.
+  description: |
+    Project about connecting, meeting and building communications, relationships andbusiness.
+    Display your Work. Showcase your business. Get discovered. Connect to clients. Find the rightpros.
+    Buy & sell services. Discover talented pros. Network with local businesses. Creating lasting workrelationships.
+    It has native applications iOS, Android and Web, so you can easily work with applicationsanywhere.
+
+- layout: left
+  company: tispr
+  link: tispr.com
+  job_title: Test Automation Lead
+  dates: May 2017 - Present
+  quote: >
+    Build and support automation process from scratch. Set-up and provide CI flow for testing and delivering.
+    Create and bring some ideas to business. Work and integrate with all teams: business, developers and QA.
+    Provide high level reports, plan and estimate work. Head test automation team and mentor it.
+  description: |
+    Project about connecting, meeting and building communications, relationships andbusiness.
+    Display your Work. Showcase your business. Get discovered. Connect to clients. Find the rightpros.
+    Buy & sell services. Discover talented pros. Network with local businesses. Creating lasting workrelationships.
+    It has native applications iOS, Android and Web, so you can easily work with applicationsanywhere.
+
+- layout: left
+  company: EPAM Systems
+  link: epam.com
+  job_title: Software Test Automation Engineer
+  dates: September 2016 - March 2017
+  quote: >
+    Participating in manual automation testing. Fix and extend test automation framework.
+    Analyze and document defects using bug tracking tools.
+    Implement, fix and extend test scenarios and tests.
+  description: |
+    Project about TV. It has native applications for iPhone, iPad or Android Devices (phones,tablets) and web applications, so you can watch your favorite shows and movies anywhere.
+
+- layout: left
+  company: EPAM Systems
+  link: epam.com
+  job_title: Software Test Automation Engineer
+  dates: March 2016 - July 2016
+  quote: >
+    Participating in automated tests framework development (discussing, testing and features purposing).
+    Implementing automated tests for SAP SE products using developed framework: Automated tests for AEM Web UI (Selenium), Automated tests for analytics sent from AEM Web UI on custom actions (Fiddler + Selenium), Automated tests for AEM users and groups permissions (Sling API).
+  description: |
+    Enterprise software to manage business operations and customer relations.
+
+- layout: left
+  company: EPAM Systems
+  link: epam.com
+  job_title: Software Test Automation Engineer
+  dates: December 2014 - December 2015
+  quote: >
+    Implementing test automation framework.
+    Automated tests for Visual Data Discovery products: Web UI (Selenium), Desktop (Ranorex), COM (.Net), Console (.Net).
+  description: |
+    Software that helps companies make better decisions and solve business problems bysimplifying access to and analysis of semi-structured data information.
+    It provides enterprise reportmanagement, online data analysis, Excel integration and more.
+
+- layout: left
+  company: EPAM Systems
+  link: epam.com
+  job_title: Software Testing Engineer / Software Test Automation Engineer
+  dates: April 2013 - November 2014
+  quote: >
+    Writing/updating/managing test cases/scenarios/checklists in the google documents.
+    Developing test automation framework for: CMS and Web UI.
+  description: |
+    Platform with created ecommerce websites where you can buy branded promotional products.Also has 2 marketing sites.
+    Impersonated and B2B shopping are supported.
