@@ -45,7 +45,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Cycling
    - Gaming
    - Play football
-   - Blogging - https://medium.com/@rosolko
+   - <a href="https://medium.com/@rosolko">Blogging</a>
    - Knitting (I hope someday)
 
 # Footer
