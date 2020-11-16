@@ -1,18 +1,17 @@
 - layout: top-middle
-  name: wdm4j
-  link: github.com/rosolko/wdm4j
-  github: rosolko/wdm4j
+  name: selenide
+  link: github.com/selenide/selenide
+  github: selenide/selenide
   quote: >
     Selenide is a framework for writing easy-to-read and easy-to-maintain automated tests in Java.
     It defines concise fluent API, natural language assertions and does some magic for ajax-based applications to let you focus entirely on the business logic of your tests.
   description: |
-    Proud that I could join the team, and team accepts me.
-    Now I can contribute to the cool library.
+    Proud that I could join the team, and team accepts me. Now I can contribute to the cool library.
 
 - layout: top-middle
   name: wdm4j
-  link: github.com/selenide/selenide
-  github: selenide/selenide
+  link: github.com/rosolko/wdm4j
+  github: rosolko/wdm4j
   quote: >
     This small library aimed to automate the Selenium WebDriver binaries management inside a Java project.
   description: |

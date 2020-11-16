@@ -19,7 +19,6 @@ linkedin_username: rosolko
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-medium_username: rosolko
 
 # About Section
 # about_title: About Me
@@ -29,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
   As well as developing I also have experience in test automation of api, web and monile applications.
   I have worked at two companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Node.JSmark> and <mark>Java</mark>.
+  I am most skilled in: <mark>Node.JS</mark> and <mark>Java</mark>.
 
 # Projects Section
 # projects_title: Projects
@@ -47,6 +46,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Cycling
    - Gaming
    - Play football
+   - Blogging - https://medium.com/@rosolko
    - Knitting (I hope someday)
 
 # Footer

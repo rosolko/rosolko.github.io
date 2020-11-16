@@ -4,7 +4,7 @@
   job_title: Senior Backend Developer
   dates: September 2018 - Present
   quote: >
-    Participating in backend development. Using NodeJS and loopback.
+    Participating in backend development. Using nodeJS and loopback.
   description: |
     Project about connecting, meeting and building communications, relationships andbusiness.
     Display your Work. Showcase your business. Get discovered. Connect to clients. Find the rightpros.
@@ -20,6 +20,7 @@
     Build and support automation process from scratch. Set-up and provide CI flow for testing and delivering.
     Create and bring some ideas to business. Work and integrate with all teams: business, developers and QA.
     Provide high level reports, plan and estimate work. Head test automation team and mentor it.
+     Using java, selenide and selenoid.
   description: |
     Project about connecting, meeting and building communications, relationships andbusiness.
     Display your Work. Showcase your business. Get discovered. Connect to clients. Find the rightpros.
@@ -35,6 +36,7 @@
     Participating in manual automation testing. Fix and extend test automation framework.
     Analyze and document defects using bug tracking tools.
     Implement, fix and extend test scenarios and tests.
+    Using java and appium.
   description: |
     Project about TV. It has native applications for iPhone, iPad or Android Devices (phones,tablets) and web applications, so you can watch your favorite shows and movies anywhere.
 
@@ -46,6 +48,7 @@
   quote: >
     Participating in automated tests framework development (discussing, testing and features purposing).
     Implementing automated tests for SAP SE products using developed framework: Automated tests for AEM Web UI (Selenium), Automated tests for analytics sent from AEM Web UI on custom actions (Fiddler + Selenium), Automated tests for AEM users and groups permissions (Sling API).
+    Using c# and selenium.
   description: |
     Enterprise software to manage business operations and customer relations.
 
@@ -57,6 +60,7 @@
   quote: >
     Implementing test automation framework.
     Automated tests for Visual Data Discovery products: Web UI (Selenium), Desktop (Ranorex), COM (.Net), Console (.Net).
+    Using c# and ranorex.
   description: |
     Software that helps companies make better decisions and solve business problems bysimplifying access to and analysis of semi-structured data information.
     It provides enterprise reportmanagement, online data analysis, Excel integration and more.
@@ -69,6 +73,7 @@
   quote: >
     Writing/updating/managing test cases/scenarios/checklists in the google documents.
     Developing test automation framework for: CMS and Web UI.
+    Using c# and selenium.
   description: |
     Platform with created ecommerce websites where you can buy branded promotional products.Also has 2 marketing sites.
     Impersonated and B2B shopping are supported.
