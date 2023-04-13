@@ -1,54 +1,24 @@
 # Site
 repository: rosolko/rosolko.github.io
-favicon: images/favicon.ico
+favicon: assets/icon.png
 
 # Personal info
 name: Aliaksandr Rasolka
-title: Senior Backend Developer | Test Automation Lead
+title: Senior Backend Developer
 email: rosolko@gmail.com
 
 # Social links
 twitter_username: arosolko
 github_username:  rosolko
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
 linkedin_username: rosolko
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Alex and I'm a senior backend developer.
-  As well as developing I also have experience in test automation of api, web and mobile applications.
-  I have worked at two companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>Node.JS</mark> and <mark>Java</mark>.
+about_content: |
+  Hi, my name's Alex and I'm a Software Engineer and now seeking full-time Senior Node.js Backend Developer roles.
+  Have 4+ years of experience in Backend Development.
+  Have 5+ years experience in Test Automation of API, Web and Mobile applications.
 
   You can easily <a href="assets/cv.pdf" download>download</a> this CV as PDF or <a onclick="window.print()">print</a> it.
-
-# Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Cycling
-   - Gaming
-   - Play football
-   - <a href="https://medium.com/@rosolko">Blogging</a>
-   - Knitting (I hope someday)
 
 # Footer
 footer_show_references: false
