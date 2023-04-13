@@ -6,7 +6,7 @@ favicon: assets/icon.png
 version: 2
 
 # Personal info
-name: Aliaksandr Rasolka
+name: Alex Rosolko
 title: Senior Backend Developer
 email: rosolko@gmail.com
 
@@ -28,14 +28,13 @@ additional_links:
 about_title: Hi
 about_content: |
   My name's Alex. 
-  
-  I'm a Software Engineer and now seeking full-time Senior Node.js Backend Developer roles.
+  I'm a Software Engineer. 
+  Now I'm seeking for a full-time Senior Node.js Backend Developer roles.
   
   Have 4+ years of experience in Backend Development.
-  
   Have 5+ years experience in Test Automation of API, Web and Mobile applications.
 
-  You can easily <mark><a href="assets/cv.pdf" download>download</a></mark> my CV.
+  You can <mark><a href="assets/cv.pdf" download>download</a></mark> my CV.
 
 # Footer
 footer_show_references: false
