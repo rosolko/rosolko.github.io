@@ -21,18 +21,21 @@ linkedin_username: rosolko
 # Additional icon links
 additional_links:
   - title: medium
-    icon: fa-brands fa-medium
+    icon: fab fa-medium
     url: https://medium.com/@rosolko
 
 # About Section
+about_title: Hi
 about_content: |
-  Hi, my name's Alex and I'm a Software Engineer and now seeking full-time Senior Node.js Backend Developer roles.
+  My name's Alex. 
+  
+  I'm a Software Engineer and now seeking full-time Senior Node.js Backend Developer roles.
   
   Have 4+ years of experience in Backend Development.
   
   Have 5+ years experience in Test Automation of API, Web and Mobile applications.
 
-  You can easily <mark><a href="assets/cv.pdf" download>download</a></mark> this CV.
+  You can easily <mark><a href="assets/cv.pdf" download>download</a></mark> my CV.
 
 # Footer
 footer_show_references: false
